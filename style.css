@@ -1,16 +1,16 @@
 @font-face {
-  font-family: 'Product Sans1';
-  src: url('fonts/Product Sans Regular.ttf')  format('truetype'); 
+  font-family: 'electroharmonix';
+  src: url('fonts/electroharmonix.ttf')  format('truetype');
 }
 @font-face {
-  font-family: 'Product Sans2';
-  src: url('fonts/Product Sans Bold.ttf')  format('truetype'); 
+  font-family: 'electroharmonix';
+  src: url('fonts/electroharmonix.ttf')  format('truetype');
 }
 
 body {
-	font-family: 'Product Sans1', sans-serif;
+	font-family: 'electroharmonix', sans-serif;
 	background: linear-gradient(
-          rgba(0, 0, 0, 0.5), 
+          rgba(0, 0, 0, 0.5),
           rgba(0, 0, 0, 0.5)
         ),
 		url('img/bg.jpg');
@@ -53,10 +53,10 @@ input {
 	height: 20px;
 	width: auto;
 	top: -2px;
-}	
+}
 .icons a:not(:last-of-type) {
-	padding-right: 20px;	
-}	
+	padding-right: 20px;
+}
 
 ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
   color: #fff;
