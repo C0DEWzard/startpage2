@@ -28,11 +28,11 @@ a, a:hover, a:focus, a:active, a:visited {
 	color: #fff;
 }
 
-h1.hello {
+h1.greeting {
 	margin-top: 270px;
 }
 
-h1.hello, h1.timing {
+h1.greeting, h1.timing {
 	margin-bottom: 85px;
 	font-size: 3.2rem;
 }
